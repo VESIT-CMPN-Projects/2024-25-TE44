@@ -1,0 +1,16 @@
+sentencepiece
+torch
+plotly
+openpyxl
+python-multipart
+pymupdf
+tensorflow
+uvicorn
+fastapi
+python-dotenv
+pymongo
+spacy
+scikit-learn
+nltk
+numpy
+pandas
